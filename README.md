@@ -12,7 +12,7 @@
 
 ## General Information
 Using techniques learnt in EDA and Liner regression module need to come out with analysis and identify attributes which are having influence on the bike rentals.
-Also need to come out with a prediction model for finding demand for shared bikes
+Also need to come out with a prediction model for finding demand for shared bikes.
 What are the independent variables present in the given data set and its impact on the bike rentals to be derived.
 By having all these details, it will be helpful for the bike rental management team on predicting the bike rentals and be prepared for effective business
 
